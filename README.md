@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ishitagangal
-- 👀 I’m interested in back-end software development and dabble in front end developement here and there
-- 💻 I've been working at Qualcomm as a Software Engineer for almost 3 years now, primarily in back-end development using Python, Apache Airflow, Django, Docker and PostgreSQL
+- 👀 I’m interested in back-end software development and havd dabbled in front end developement here and there
+- 💻 I've been working at Qualcomm as a Software Engineer for 3 years now, primarily in back-end development using Python, Apache Airflow, Django, Docker, PostgreSQLand Kubernetes 
 - 📫 Reach me via email at ishitagangal@outlook.com 
 - 📱 Find me on [Linkedin](https://www.linkedin.com/in/ishitagangal/)			
 			
